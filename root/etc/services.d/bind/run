@@ -1,0 +1,3 @@
+#!/usr/bin/execlineb -P
+
+/usr/sbin/named -f -c /config/named.conf -L /log/named.log
